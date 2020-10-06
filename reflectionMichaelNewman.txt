@@ -1,0 +1,4 @@
+﻿Michael Newman Reflection
+
+
+Learning new languages quickly is pretty hard, especially when im also learning html and css from scratch in another class. I found Python to be more difficult to pick up than javaScript because JavaScript was more familiar (used brackets vs whitespace, has semicolons, lots of similar syntax to java as opposed to Python). I used a combination of youtube crash courses (traversymedia) and documentation to learn the languages and solve new bug problems (turns out floor division operator is a thing). I found Bug Checking to be the hardest part of learning new languages as you need experience (and stack overflow) to understand whats causing weird bugs. Even the meaning of a bug is somewhat obtuse until you read further. Learning what Methods and Operators I do and don't have was a bit annoying (python doesn't have increment operators apparently) The easiest part was learning new Loop and Conditional syntax which doesn't change too much.

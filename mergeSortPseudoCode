@@ -1,0 +1,20 @@
+MergeSort{
+  if left is less than right (we havent reached single element arrays yet){
+
+    find the middle of array
+
+    mergeSort(left side of array)
+    mergeSort(right side of array)
+
+    merge(left and right)
+  }
+}
+
+merge{
+  make 2 temp arrays.
+  put the two halves into the 2 arrays
+  combine them togethor back into the original array while sorting by comparing
+
+  put in straggler elements
+
+}
